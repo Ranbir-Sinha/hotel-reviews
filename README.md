@@ -17,7 +17,7 @@ There is a list of reviews about each hotel. Let's start looking at an example r
 ```
 This hotel is just minutes away from LAX with a convenient shuttle. The staff was friendly and check-in easy. The room was large and recently renovated with stylish drapes and wallpaper. The flatscreen TV had great reception and good recent movie selections. I did not like the squishiness of the foam top on the mattress, which was adequately firm in its base, nor did I like the lack of choice in pillows. The door to the hallway is not sound-proof so you have to put up with hearing slamming of doors throughout the night. There is a $16.00 charge for parking, but the lot and garage seem very safe in an area that is a little sketchy.
 ```
-As we can see, this is mainly a negative review about a hotel.
+As we can see, this is mainly a mixed review about a hotel.
 
 Sometimes we don't want an overall rating of the review but a little more detail. We want the postive/negative sentiments towards some entities. For example,
 ```
